@@ -1,8 +1,5 @@
 #### Websites & Tutorials
 
-[A Tutorial on Pointers and Arrays in C][1]
+[A Tutorial on Pointers and Arrays in C](http://pw1.netcom.com/~tjensen/ptr/pointers.htm)
 
-[1]: http://pw1.netcom.com/~tjensen/ptr/pointers.htm
-
-[Stanford CS Education Library: Pointers and memory][2]
-[2]: http://cslibrary.stanford.edu/102/
+[Stanford CS Education Library: Pointers and memory](http://cslibrary.stanford.edu/102)
